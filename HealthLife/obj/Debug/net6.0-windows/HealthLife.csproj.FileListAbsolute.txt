@@ -1,0 +1,88 @@
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\bin\Debug\net6.0-windows\HealthLife.exe
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\bin\Debug\net6.0-windows\HealthLife.deps.json
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\bin\Debug\net6.0-windows\HealthLife.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\bin\Debug\net6.0-windows\HealthLife.dll
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\bin\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Form1.resources
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.dll
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\refint\HealthLife.dll
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\HealthLife.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CICLO 6\Estructura de Datos\TRABAJO FINAL DE ESRUCTURA\HealthLife\HealthLife\obj\Debug\net6.0-windows\ref\HealthLife.dll
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.exe
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.deps.json
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.dll
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Form1.resources
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.dll
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\refint\HealthLife.dll
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\ref\HealthLife.dll
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.exe
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.deps.json
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.dll
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Form1.resources
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.dll
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\refint\HealthLife.dll
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\LDPlayer\Escritorio\Healthlife\HealthLife\obj\Debug\net6.0-windows\ref\HealthLife.dll
+C:\Users\usuario\Downloads\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.exe
+C:\Users\usuario\Downloads\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.deps.json
+C:\Users\usuario\Downloads\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.runtimeconfig.json
+C:\Users\usuario\Downloads\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.dll
+C:\Users\usuario\Downloads\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Form1.resources
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Properties.Resources.resources
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfo.cs
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.dll
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\refint\HealthLife.dll
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.genruntimeconfig.cache
+C:\Users\usuario\Downloads\Healthlife\HealthLife\obj\Debug\net6.0-windows\ref\HealthLife.dll
+C:\Users\carlo\OneDrive\Desktop\Quinto\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.exe
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.deps.json
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.dll
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\bin\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Form1.resources
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.dll
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\refint\HealthLife.dll
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.pdb
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\HealthLife.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Healthlife\HealthLife\obj\Debug\net6.0-windows\ref\HealthLife.dll
